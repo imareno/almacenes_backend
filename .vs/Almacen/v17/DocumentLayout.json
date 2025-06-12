@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\1.api\\estructure\\validationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\1.api\\estructure\\validationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\1.api\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\1.api\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\1.api\\systemcontrollers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\1.api\\systemcontrollers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\1.api\\extensions\\dbcontextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\1.api\\extensions\\dbcontextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\3.services\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\3.services\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\1.api\\utils\\apiutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\1.api\\utils\\apiutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\1.api\\generic\\entitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\1.api\\generic\\entitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\1.api\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\1.api\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\4.database\\dao\\entitydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\4.database\\dao\\entitydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\4.database\\dao\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\4.database\\dao\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\1.api\\extensions\\automapperextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\1.api\\extensions\\automapperextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\1.api\\extensions\\authenticationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\1.api\\extensions\\authenticationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|d:\\unidad e\\proyectos\\almacenes\\almacen\\almacen\\1.api\\extensions\\validationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C6488-8FD3-42F6-82C5-206ECE22A502}|Almacen\\Almacen.csproj|solutionrelative:almacen\\1.api\\extensions\\validationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Almacen\\appsettings.Development.json",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\appsettings.Development.json",
+              "RelativeToolTip": "Almacen\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T01:37:29.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationHandler.cs",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\Estructure\\ValidationHandler.cs",
+              "RelativeDocumentMoniker": "Almacen\\1.Api\\Estructure\\ValidationHandler.cs",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\Estructure\\ValidationHandler.cs",
+              "RelativeToolTip": "Almacen\\1.Api\\Estructure\\ValidationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:34:38.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\SystemControllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Almacen\\1.Api\\SystemControllers\\LoginController.cs",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\SystemControllers\\LoginController.cs",
+              "RelativeToolTip": "Almacen\\1.Api\\SystemControllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:08:39.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiServices.cs",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\3.Services\\ApiServices.cs",
+              "RelativeDocumentMoniker": "Almacen\\3.Services\\ApiServices.cs",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\3.Services\\ApiServices.cs",
+              "RelativeToolTip": "Almacen\\3.Services\\ApiServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:07:08.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiUtils.cs",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\Utils\\ApiUtils.cs",
+              "RelativeDocumentMoniker": "Almacen\\1.Api\\Utils\\ApiUtils.cs",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\Utils\\ApiUtils.cs",
+              "RelativeToolTip": "Almacen\\1.Api\\Utils\\ApiUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:06:59.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntityController.cs",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\Generic\\EntityController.cs",
+              "RelativeDocumentMoniker": "Almacen\\1.Api\\Generic\\EntityController.cs",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\Generic\\EntityController.cs",
+              "RelativeToolTip": "Almacen\\1.Api\\Generic\\EntityController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:01:03.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\DTO\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "Almacen\\1.Api\\DTO\\UserLoginDto.cs",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\DTO\\UserLoginDto.cs",
+              "RelativeToolTip": "Almacen\\1.Api\\DTO\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:33:11.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "Almacen\\1.Api\\DTO\\UserDto.cs",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\DTO\\UserDto.cs",
+              "RelativeToolTip": "Almacen\\1.Api\\DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:32:24.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\4.DataBase\\DAO\\Methods.cs",
+              "RelativeDocumentMoniker": "Almacen\\4.DataBase\\DAO\\Methods.cs",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\4.DataBase\\DAO\\Methods.cs",
+              "RelativeToolTip": "Almacen\\4.DataBase\\DAO\\Methods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:10:48.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EntityDao.cs",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\4.DataBase\\DAO\\EntityDao.cs",
+              "RelativeDocumentMoniker": "Almacen\\4.DataBase\\DAO\\EntityDao.cs",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\4.DataBase\\DAO\\EntityDao.cs",
+              "RelativeToolTip": "Almacen\\4.DataBase\\DAO\\EntityDao.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:10:13.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\appsettings.json",
+              "RelativeDocumentMoniker": "Almacen\\appsettings.json",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\appsettings.json",
+              "RelativeToolTip": "Almacen\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T00:20:33.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "startup.cs",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\startup.cs",
+              "RelativeDocumentMoniker": "Almacen\\startup.cs",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\startup.cs",
+              "RelativeToolTip": "Almacen\\startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:35:18.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\Program.cs",
+              "RelativeDocumentMoniker": "Almacen\\Program.cs",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\Program.cs",
+              "RelativeToolTip": "Almacen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:14:18.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ValidationExtension.cs",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\Extensions\\ValidationExtension.cs",
+              "RelativeDocumentMoniker": "Almacen\\1.Api\\Extensions\\ValidationExtension.cs",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\Extensions\\ValidationExtension.cs",
+              "RelativeToolTip": "Almacen\\1.Api\\Extensions\\ValidationExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:46:48.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbContextExtension.cs",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\Extensions\\DbContextExtension.cs",
+              "RelativeDocumentMoniker": "Almacen\\1.Api\\Extensions\\DbContextExtension.cs",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\Extensions\\DbContextExtension.cs",
+              "RelativeToolTip": "Almacen\\1.Api\\Extensions\\DbContextExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:45:47.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutoMapperExtension.cs",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\Extensions\\AutoMapperExtension.cs",
+              "RelativeDocumentMoniker": "Almacen\\1.Api\\Extensions\\AutoMapperExtension.cs",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\Extensions\\AutoMapperExtension.cs",
+              "RelativeToolTip": "Almacen\\1.Api\\Extensions\\AutoMapperExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:41:46.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthenticationExtension.cs",
+              "DocumentMoniker": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\Extensions\\AuthenticationExtension.cs",
+              "RelativeDocumentMoniker": "Almacen\\1.Api\\Extensions\\AuthenticationExtension.cs",
+              "ToolTip": "D:\\UNIDAD E\\PROYECTOS\\almacenes\\Almacen\\Almacen\\1.Api\\Extensions\\AuthenticationExtension.cs",
+              "RelativeToolTip": "Almacen\\1.Api\\Extensions\\AuthenticationExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:23:43.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
